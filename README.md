@@ -28,18 +28,41 @@ A complete guide to learn data science for beginners
 
 ## Machine Learning
 - Supervised Learning
-1. K-NN
-2. Naive Bayes
-3. Support Vector Machine
-4. Ensemble Method
-5. CASE STUDY: Regression
-6. CASE STUDY: Classification
-7. CASE STUDY: Another Classification
+01. K-NN
+02. Naive Bayes
+03. Support Vector Machine
+04. Random Forest
+05. AdaBoost
+06. Gradient Boosting
+07. XGBoost
+08. CatBoost
+09. Bagging Classifier
+10. Voting Classifier
+11. Stacking Classifier
+12. CASE STUDY: Regression
+13. CASE STUDY: Classification
+14. CASE STUDY: Another Classification
 
 - Unsupervised Learning
 1. K-Means
 2. DBSCAN
 3. Hierarchical Clustering
+
+## Evaluation Metrics
+- Supervised Learning
+1. Confusion Matrix
+2. Accuracy
+3. Precision
+4. Recall
+5. F Score
+6. Hamming Loss
+7. ROC
+8. ROCAUC
+9. Top K Accuracy
+
+- Unsupervised Learning
+1. Elbow Method
+2. Silhouette Coeff
 
 ## Deep Learning
 1. Activation Functions
@@ -63,7 +86,19 @@ A complete guide to learn data science for beginners
 4. Instance Segmentation
 
 ## NLP & NLU
-
+01. Tokenization
+02. Stemming
+03. Lemmatization
+04. Feature Extraction
+05. Feature Selection
+06. Term Weighting
+07. Embedding
+08. Part of Speech Tagging
+09. Named Entity Recognition
+10. Popular NLP & NLU Architecture
+11. STUDY CASE: News Classification
+12. STUDY CASE: Sentiment Analysis
+13. STUDY CASE: Machine Translation
 
 ## Speech Recognition
 
