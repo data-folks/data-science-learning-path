@@ -39,9 +39,9 @@ A complete guide to learn data science for beginners
 09. Bagging Classifier
 10. Voting Classifier
 11. Stacking Classifier
-12. CASE STUDY: Regression
-13. CASE STUDY: Classification
-14. CASE STUDY: Another Classification
+12. [CASE STUDY: House Pricing](https://www.kaggle.com/c/house-prices-advanced-regression-techniques)
+13. [CASE STUDY: Titanic](https://www.kaggle.com/c/titanic)
+14. [CASE STUDY: Credit Scoring](https://www.kaggle.com/sakshigoyal7/credit-card-customers)
 
 - Unsupervised Learning
 1. K-Means
