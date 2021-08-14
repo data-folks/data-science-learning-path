@@ -16,15 +16,19 @@ A complete guide to learn data science for beginners
 9. Common Linux Packages 
 
 ## Mathematics & Statistics
-1. Linear Algebra
-2. Calculus
-3. Descriptive Statistics
-4. Data Distributions
-5. Statistical Testing
-6. Exploratory Data Analysis
-7. Correlation
-8. Statistical Data Visualization
-9. Regression
+01. Linear Algebra
+02. Calculus
+03. Descriptive Statistics
+04. Data Distributions
+05. Statistical Testing
+06. Exploratory Data Analysis
+07. Correlation
+08. Statistical Data Visualization
+09. Regression
+10. TOOLBOX: Pandas
+11. TOOLBOX: Numpy
+12. TOOLBOX: Matplotlib
+13. TOOLBOX: Seaborn
 
 ## Machine Learning
 - Supervised Learning
@@ -39,9 +43,10 @@ A complete guide to learn data science for beginners
 09. Bagging Classifier
 10. Voting Classifier
 11. Stacking Classifier
-12. [CASE STUDY: House Pricing](https://www.kaggle.com/c/house-prices-advanced-regression-techniques)
-13. [CASE STUDY: Titanic](https://www.kaggle.com/c/titanic)
-14. [CASE STUDY: Credit Scoring](https://www.kaggle.com/sakshigoyal7/credit-card-customers)
+12. TOOBOX: Scikit Learn
+13. [CASE STUDY: House Pricing](https://www.kaggle.com/c/house-prices-advanced-regression-techniques)
+14. [CASE STUDY: Titanic](https://www.kaggle.com/c/titanic)
+15. [CASE STUDY: Credit Scoring](https://www.kaggle.com/sakshigoyal7/credit-card-customers)
 
 - Unsupervised Learning
 1. K-Means
@@ -78,6 +83,7 @@ A complete guide to learn data science for beginners
 ## ML Applications
 1. Timeseries
 2. Recommendation System
+3. Netwok Analysis
 
 ## Computer Vision
 1. Image Classification
