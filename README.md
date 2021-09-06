@@ -1,10 +1,13 @@
-# data-science-learning-path
-A complete guide to learn data science for beginners
+![image](https://github.com/data-folks/data-science-learning-path/blob/main/assets/banner.jpg)
 
 ## Brief Introduction
 
+A complete guide to learn data science for beginners
+
+This learning path is intended for everyone who wants to learn data science and build a career in data field especially data analyst and data scientist. In this guide, there is a corresponding link in each section that will help you to learn (at least to start) in each chapter.
 
 ## Programming
+
 1. Basic Python
 2. Object-oriented
 3. Intro to SQL
@@ -13,34 +16,37 @@ A complete guide to learn data science for beginners
 6. Code Versioning Platform: Github | Bitbucket | Gitlab
 7. Shell Script
 8. Competitive Programming: Hackerrank | Leetcode | Kattis
-9. Common Linux Packages 
+9. Common Linux Packages
 
 ## Mathematics & Statistics
-01. Linear Algebra
-02. Calculus
-03. Descriptive Statistics
-04. Data Distributions
-05. Statistical Testing
-06. Exploratory Data Analysis
-07. Correlation
-08. Statistical Data Visualization
-09. Regression
+
+1.  Linear Algebra
+2.  Calculus
+3.  Descriptive Statistics
+4.  Data Distributions
+5.  Statistical Testing
+6.  Exploratory Data Analysis
+7.  Correlation
+8.  Statistical Data Visualization
+9.  Regression
 10. TOOLBOX: Pandas
 11. TOOLBOX: Numpy
 12. TOOLBOX: Matplotlib
 13. TOOLBOX: Seaborn
 
 ## Machine Learning
+
 - Supervised Learning
-01. K-NN
-02. Naive Bayes
-03. Support Vector Machine
-04. Random Forest
-05. AdaBoost
-06. Gradient Boosting
-07. XGBoost
-08. CatBoost
-09. Bagging Classifier
+
+1.  K-NN
+2.  Naive Bayes
+3.  Support Vector Machine
+4.  Random Forest
+5.  AdaBoost
+6.  Gradient Boosting
+7.  XGBoost
+8.  CatBoost
+9.  Bagging Classifier
 10. Voting Classifier
 11. Stacking Classifier
 12. TOOBOX: Scikit Learn
@@ -49,12 +55,15 @@ A complete guide to learn data science for beginners
 15. [CASE STUDY: Credit Scoring](https://www.kaggle.com/sakshigoyal7/credit-card-customers)
 
 - Unsupervised Learning
+
 1. K-Means
 2. DBSCAN
 3. Hierarchical Clustering
 
 ## Evaluation Metrics
+
 - Supervised Learning
+
 1. Confusion Matrix
 2. Accuracy
 3. Precision
@@ -66,10 +75,12 @@ A complete guide to learn data science for beginners
 9. Top K Accuracy
 
 - Unsupervised Learning
+
 1. Elbow Method
 2. Silhouette Coeff
 
 ## Deep Learning
+
 1. Activation Functions
 2. Linear Layer
 3. Convolutional Neural Networks
@@ -81,26 +92,29 @@ A complete guide to learn data science for beginners
 9. LR Scheduler
 
 ## ML Applications
+
 1. Timeseries
 2. Recommendation System
 3. Netwok Analysis
 
 ## Computer Vision
+
 1. Image Classification
 2. Object Detection
 3. Object Segmentation
 4. Instance Segmentation
 
 ## NLP & NLU
-01. Tokenization
-02. Stemming
-03. Lemmatization
-04. Feature Extraction
-05. Feature Selection
-06. Term Weighting
-07. Embedding
-08. Part of Speech Tagging
-09. Named Entity Recognition
+
+1.  Tokenization
+2.  Stemming
+3.  Lemmatization
+4.  Feature Extraction
+5.  Feature Selection
+6.  Term Weighting
+7.  Embedding
+8.  Part of Speech Tagging
+9.  Named Entity Recognition
 10. Popular NLP & NLU Architecture
 11. STUDY CASE: News Classification
 12. STUDY CASE: Sentiment Analysis
@@ -108,8 +122,6 @@ A complete guide to learn data science for beginners
 
 ## Speech Recognition
 
-
 ## Model Deployment
-
 
 ## Book References
