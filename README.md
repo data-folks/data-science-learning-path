@@ -8,15 +8,14 @@ This learning path is intended for everyone who wants to learn data science and 
 
 ## Programming
 
-1. Basic Python
-2. Object-oriented
-3. Intro to SQL
-4. SQL Data Manipulation
-5. Git
-6. Code Versioning Platform: Github | Bitbucket | Gitlab
-7. Shell Script
-8. Competitive Programming: Hackerrank | Leetcode | Kattis
-9. Common Linux Packages
+1. [Basic Python](https://www.learnpython.org/)
+2. [Object-oriented](https://realpython.com/python3-object-oriented-programming/)
+3. [Intro to DBMS](https://www.omnisci.com/technical-glossary/dbms)
+4. [SQL Data Manipulation](https://mode.com/sql-tutorial/introduction-to-sql)
+5. [Git](https://git-scm.com/doc)
+6. Code Versioning Platform: [Github](https://github.com/) | [Bitbucket](https://bitbucket.org/) | [Gitlab](https://about.gitlab.com/)
+7. [Shell Script](https://dagshub.com/blog/effective-linux-bash-data-scientists/)
+8. Competitive Programming: [Hackerrank](https://www.hackerrank.com/) | [Leetcode](https://leetcode.com/) | [Kattis](https://open.kattis.com/)
 
 ## Mathematics & Statistics
 
