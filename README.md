@@ -124,3 +124,6 @@ This learning path is intended for everyone who wants to learn data science and 
 ## Model Deployment
 
 ## Book References
+1. [Practical Deep Learning for Coders](https://course.fast.ai/)
+2. [Dive Into Deep Learning](http://d2l.ai/index.html)
+2. [Interpretable Machine Learning](https://christophm.github.io/interpretable-ml-book/)
