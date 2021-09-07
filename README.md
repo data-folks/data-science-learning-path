@@ -1,15 +1,15 @@
 ![image](https://github.com/data-folks/data-science-learning-path/blob/main/assets/banner.jpg)
 
-## Brief Introduction
+## Brief Introduction ![image](https://visitor-badge.laobi.icu/badge?page_id=data-folks/data-science-learning-path)
 
-A complete guide to learn data science for beginners
+A complete guide to learn data science for beginners.
 
 This learning path is intended for everyone who wants to learn data science and build a career in data field especially data analyst and data scientist. In this guide, there is a corresponding link in each section that will help you to learn (at least to start) in each chapter.
 
 ## Programming
 
 1. [Basic Python](https://www.learnpython.org/)
-2. [Object-oriented](https://realpython.com/python3-object-oriented-programming/)
+2. [Object-oriented Programming](https://realpython.com/python3-object-oriented-programming/)
 3. [Intro to DBMS](https://www.omnisci.com/technical-glossary/dbms)
 4. [SQL Data Manipulation](https://mode.com/sql-tutorial/introduction-to-sql)
 5. [Git](https://git-scm.com/doc)
@@ -37,7 +37,7 @@ This learning path is intended for everyone who wants to learn data science and 
 
 - Supervised Learning
 
-1.  K-NN
+1.  K-NN (K-Nearest Neighbors)
 2.  Naive Bayes
 3.  Support Vector Machine
 4.  Random Forest
@@ -55,7 +55,7 @@ This learning path is intended for everyone who wants to learn data science and 
 
 - Unsupervised Learning
 
-1. K-Means
+1. K-Means Clustering
 2. DBSCAN
 3. Hierarchical Clustering
 
@@ -69,26 +69,26 @@ This learning path is intended for everyone who wants to learn data science and 
 4. Recall
 5. F Score
 6. Hamming Loss
-7. ROC
-8. ROCAUC
+7. ROC (Receiver Operating Characteristic)
+8. ROC AUC (Area Under Curve)
 9. Top K Accuracy
 
 - Unsupervised Learning
 
-1. Elbow Method
-2. Silhouette Coeff
+1. [Elbow Method](https://en.wikipedia.org/wiki/Elbow_method_(clustering))
+2. Silhouette Coefficient
 
 ## Deep Learning
 
 1. Activation Functions
 2. Linear Layer
-3. Convolutional Neural Networks
-4. Recurrent Neural Networks
+3. CNN (Convolutional Neural Networks)
+4. RNN (Recurrent Neural Networks)
 5. Optimization
 6. Loss Functions / Objective Functions
 7. Dropout
 8. Batchnorm
-9. LR Scheduler
+9. LR Scheduler (LearningRate Scheduler)
 
 ## ML Applications
 
