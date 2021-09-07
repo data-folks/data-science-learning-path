@@ -28,10 +28,10 @@ This learning path is intended for everyone who wants to learn data science and 
 7.  Correlation
 8.  Statistical Data Visualization
 9.  Regression
-10. TOOLBOX: Pandas
+10. TOOLBOX: [Pandas](https://www.kaggle.com/learn/pandas)
 11. TOOLBOX: Numpy
 12. TOOLBOX: Matplotlib
-13. TOOLBOX: Seaborn
+13. TOOLBOX: [Seaborn](https://www.kaggle.com/learn/data-visualization)
 
 ## Machine Learning
 
@@ -48,7 +48,7 @@ This learning path is intended for everyone who wants to learn data science and 
 9.  Bagging Classifier
 10. Voting Classifier
 11. Stacking Classifier
-12. TOOBOX: Scikit Learn
+12. TOOLBOX: Scikit Learn
 13. [CASE STUDY: House Pricing](https://www.kaggle.com/c/house-prices-advanced-regression-techniques)
 14. [CASE STUDY: Titanic](https://www.kaggle.com/c/titanic)
 15. [CASE STUDY: Credit Scoring](https://www.kaggle.com/sakshigoyal7/credit-card-customers)
