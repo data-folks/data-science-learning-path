@@ -54,17 +54,11 @@ This learning path is intended for everyone who wants to learn data science and 
 9.  Bagging Classifier
 10. Voting Classifier
 11. Stacking Classifier
-    <<<<<<< HEAD
 12. [TOOLBOX: Scikit Learn](https://scikit-learn.org/stable/)
 13. [TOOLBOX: statsmodels](https://www.statsmodels.org/stable/index.html)
 14. [CASE STUDY: House Pricing](https://www.kaggle.com/c/house-prices-advanced-regression-techniques)
 15. [CASE STUDY: Titanic](https://www.kaggle.com/c/titanic)
-16. # [CASE STUDY: Credit Scoring](https://www.kaggle.com/sakshigoyal7/credit-card-customers)
-17. TOOLBOX: Scikit Learn
-18. [CASE STUDY: House Pricing](https://www.kaggle.com/c/house-prices-advanced-regression-techniques)
-19. [CASE STUDY: Titanic](https://www.kaggle.com/c/titanic)
-20. [CASE STUDY: Credit Scoring](https://www.kaggle.com/sakshigoyal7/credit-card-customers)
-    > > > > > > > 18016e1c66db26971d89dd1457c4620705fa8c22
+16. [CASE STUDY: Credit Scoring](https://www.kaggle.com/sakshigoyal7/credit-card-customers)
 
 - Unsupervised Learning
 
