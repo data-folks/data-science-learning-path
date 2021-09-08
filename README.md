@@ -28,16 +28,10 @@ This learning path is intended for everyone who wants to learn data science and 
 7.  Correlation
 8.  Statistical Data Visualization
 9.  Regression
-    <<<<<<< HEAD
 10. [TOOLBOX: Pandas](https://pandas.pydata.org/)
 11. [TOOLBOX: Numpy](https://numpy.org/)
 12. [TOOLBOX: Matplotlib](https://matplotlib.org/)
-13. # [TOOLBOX: Seaborn](https://seaborn.pydata.org/)
-14. TOOLBOX: [Pandas](https://www.kaggle.com/learn/pandas)
-15. TOOLBOX: Numpy
-16. TOOLBOX: Matplotlib
-17. TOOLBOX: [Seaborn](https://www.kaggle.com/learn/data-visualization)
-    > > > > > > > 18016e1c66db26971d89dd1457c4620705fa8c22
+13. [TOOLBOX: Seaborn](https://seaborn.pydata.org/)
 
 ## Machine Learning
 
