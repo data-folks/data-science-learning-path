@@ -28,10 +28,10 @@ This learning path is intended for everyone who wants to learn data science and 
 7.  Correlation
 8.  Statistical Data Visualization
 9.  Regression
-10. TOOLBOX: Pandas
-11. TOOLBOX: Numpy
-12. TOOLBOX: Matplotlib
-13. TOOLBOX: Seaborn
+10. [TOOLBOX: Pandas](https://pandas.pydata.org/)
+11. [TOOLBOX: Numpy](https://numpy.org/)
+12. [TOOLBOX: Matplotlib](https://matplotlib.org/)
+13. [TOOLBOX: Seaborn](https://seaborn.pydata.org/)
 
 ## Machine Learning
 
@@ -48,10 +48,11 @@ This learning path is intended for everyone who wants to learn data science and 
 9.  Bagging Classifier
 10. Voting Classifier
 11. Stacking Classifier
-12. TOOBOX: Scikit Learn
-13. [CASE STUDY: House Pricing](https://www.kaggle.com/c/house-prices-advanced-regression-techniques)
-14. [CASE STUDY: Titanic](https://www.kaggle.com/c/titanic)
-15. [CASE STUDY: Credit Scoring](https://www.kaggle.com/sakshigoyal7/credit-card-customers)
+12. [TOOLBOX: Scikit Learn](https://scikit-learn.org/stable/)
+13. [TOOLBOX: statsmodels](https://www.statsmodels.org/stable/index.html)
+14. [CASE STUDY: House Pricing](https://www.kaggle.com/c/house-prices-advanced-regression-techniques)
+15. [CASE STUDY: Titanic](https://www.kaggle.com/c/titanic)
+16. [CASE STUDY: Credit Scoring](https://www.kaggle.com/sakshigoyal7/credit-card-customers)
 
 - Unsupervised Learning
 
@@ -89,6 +90,9 @@ This learning path is intended for everyone who wants to learn data science and 
 7. Dropout
 8. Batchnorm
 9. LR Scheduler
+10. [TOOLBOX: PyTorch](https://pytorch.org/)
+11. [TOOLBOX: Tensorflow](https://www.tensorflow.org/)
+12. [TOOLBOX: Keras](https://keras.io/)
 
 ## ML Applications
 
@@ -115,9 +119,9 @@ This learning path is intended for everyone who wants to learn data science and 
 8.  Part of Speech Tagging
 9.  Named Entity Recognition
 10. Popular NLP & NLU Architecture
-11. STUDY CASE: News Classification
-12. STUDY CASE: Sentiment Analysis
-13. STUDY CASE: Machine Translation
+11. [STUDY CASE: News Classification](http://qwone.com/~jason/20Newsgroups/)
+12. [STUDY CASE: Sentiment Analysis](https://medium.com/data-folks-indonesia/indonesian-app-review-sentiment-analysis-using-neural-network-and-pytorch-54c0ef766c09)
+13. [STUDY CASE: Machine Translation](http://www.manythings.org/anki/)
 
 ## Speech Recognition
 
