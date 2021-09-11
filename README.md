@@ -73,6 +73,16 @@ This learning path is intended for everyone who wants to learn data science and 
 7. ROC (Receiver Operating Characteristic)
 8. ROC AUC (Area Under Curve)
 9. Top K Accuracy
+10. MAE
+11. MSE
+12. MRR
+13. DCG
+14. NDCG
+15. PSNR
+16. SSIM
+17. IoU
+18. Perplexity
+19. BLEU score
 
 - Unsupervised Learning
 
@@ -110,18 +120,20 @@ This learning path is intended for everyone who wants to learn data science and 
 ## NLP & NLU
 
 1.  Tokenization
-2.  Stemming
-3.  Lemmatization
-4.  Feature Extraction
-5.  Feature Selection
-6.  Term Weighting
-7.  Embedding
-8.  Part of Speech Tagging
-9.  Named Entity Recognition
-10. Popular NLP & NLU Architecture
-11. [STUDY CASE: News Classification](http://qwone.com/~jason/20Newsgroups/)
-12. [STUDY CASE: Sentiment Analysis](https://medium.com/data-folks-indonesia/indonesian-app-review-sentiment-analysis-using-neural-network-and-pytorch-54c0ef766c09)
-13. [STUDY CASE: Machine Translation](http://www.manythings.org/anki/)
+2.  Sequence
+3.  Padding
+4.  Stemming
+5.  Lemmatization
+6.  Feature Extraction
+7.  Feature Selection
+8.  Term Weighting
+9.  Embedding
+10.  Part of Speech Tagging
+11.  Named Entity Recognition
+12. Popular NLP & NLU Architecture
+13. [STUDY CASE: News Classification](http://qwone.com/~jason/20Newsgroups/)
+14. [STUDY CASE: Sentiment Analysis](https://medium.com/data-folks-indonesia/indonesian-app-review-sentiment-analysis-using-neural-network-and-pytorch-54c0ef766c09)
+15. [STUDY CASE: Machine Translation](http://www.manythings.org/anki/)
 
 ## Speech Recognition
 
