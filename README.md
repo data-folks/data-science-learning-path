@@ -89,12 +89,6 @@ This learning path is intended for everyone who wants to learn data science and 
 1. [Elbow Method](<https://en.wikipedia.org/wiki/Elbow_method_(clustering)>)
 2. Silhouette Coefficient
 
-## Optimizer
-
-1. Adam
-2. SGD
-3. RMSprop
-
 ## Deep Learning
 
 1. Activation Functions
