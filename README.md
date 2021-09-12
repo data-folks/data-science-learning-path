@@ -8,6 +8,36 @@ A complete guide to learn data science for beginners.
 
 This learning path is intended for everyone who wants to learn data science and build a career in data field especially data analyst and data scientist. In this guide, there is a corresponding link in each section that will help you to learn (at least to start) in each chapter.
 
+## Table of Contents
+<details open="open">
+  <summary>Table of Contents</summary>
+  <ol>
+    <li><a href="#programming">Programming</a></li>
+    <li><a href="#mathematics--statistics">Mathematics & Statistics</a></li>
+    <li>
+      <a href="#machine-learning">Machine Learning</a>
+      <ul>
+        <li><a href="#">Supervised Learning</a></li>
+        <li><a href="#">Unsupervised Learning</a></li>
+      </ul>
+    </li>
+    <li>
+      <a href="#evaluation-metrics">Evaluation Metrics</a>
+      <ul>
+        <li><a href="#">Supervised Learning</a></li>
+        <li><a href="#">Unsupervised Learning</a></li>
+      </ul>
+    </li>
+    <li><a href="#deep-learning">Deep Learning</a></li>
+    <li><a href="#ml-applications">ML Applications</a></li>
+    <li><a href="#computer-vision">Computer Vision</a></li>
+    <li><a href="#nlp--nlu">NLP & NLU</a></li>
+    <li><a href="#speech-recognition">Speech Recognition</a></li>
+    <li><a href="#model-deployment">Model Deployment</a></li>
+    <li><a href="#book-references">Book References</a></li>
+  </ol>
+</details>
+
 ## Programming
 
 1. [Basic Python](https://www.learnpython.org/)
@@ -37,7 +67,7 @@ This learning path is intended for everyone who wants to learn data science and 
 
 ## Machine Learning
 
-- Supervised Learning
+- ### Supervised Learning
 
 1.  K-NN (K-Nearest Neighbors)
 2.  Naive Bayes
@@ -56,7 +86,7 @@ This learning path is intended for everyone who wants to learn data science and 
 15. [CASE STUDY: Titanic](https://www.kaggle.com/c/titanic)
 16. [CASE STUDY: Credit Scoring](https://www.kaggle.com/sakshigoyal7/credit-card-customers)
 
-- Unsupervised Learning
+- ### Unsupervised Learning
 
 1. K-Means Clustering
 2. DBSCAN
@@ -64,7 +94,7 @@ This learning path is intended for everyone who wants to learn data science and 
 
 ## Evaluation Metrics
 
-- Supervised Learning
+- ### Supervised Learning
 
 1. Confusion Matrix
 2. Accuracy
@@ -86,7 +116,7 @@ This learning path is intended for everyone who wants to learn data science and 
 18. Perplexity
 19. BLEU score
 
-- Unsupervised Learning
+- ### Unsupervised Learning
 
 1. [Elbow Method](<https://en.wikipedia.org/wiki/Elbow_method_(clustering)>)
 2. Silhouette Coefficient
