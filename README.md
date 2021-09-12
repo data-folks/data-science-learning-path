@@ -3,10 +3,11 @@
 ![image](https://visitor-badge.laobi.icu/badge?page_id=data-folks/data-science-learning-path) [![Contributors][contributors-shield]][contributors-url] [![Forks][forks-shield]][forks-url] [![Stargazers][stars-shield]][stars-url] [![Issues][issues-shield]][issues-url] [![MIT License][license-shield]][license-url] [![LinkedIn][linkedin-shield]][linkedin-url] [![Discord][discord-shield]][discord-url] [![Medium][medium-shield]][medium-url]
 
 ## Brief Introduction
-
 A complete guide to learn data science for beginners.
 
 This learning path is intended for everyone who wants to learn data science and build a career in data field especially data analyst and data scientist. In this guide, there is a corresponding link in each section that will help you to learn (at least to start) in each chapter.
+
+
 
 ## Table of Contents
 <details open="open">
@@ -38,8 +39,9 @@ This learning path is intended for everyone who wants to learn data science and 
   </ol>
 </details>
 
-## Programming
 
+
+## Programming
 1. [Basic Python](https://www.learnpython.org/)
 2. [Object-oriented Programming](https://realpython.com/python3-object-oriented-programming/)
 3. [Intro to DBMS](https://www.omnisci.com/technical-glossary/dbms)
@@ -49,8 +51,11 @@ This learning path is intended for everyone who wants to learn data science and 
 7. [Shell Script](https://dagshub.com/blog/effective-linux-bash-data-scientists/)
 8. Competitive Programming: [Hackerrank](https://www.hackerrank.com/) | [Leetcode](https://leetcode.com/) | [Kattis](https://open.kattis.com/)
 
-## Mathematics & Statistics
+<a href="#table-of-contents">🠥🠥 Back to Table of Contents 🠥🠥</a>
 
+
+
+## Mathematics & Statistics
 1.  Linear Algebra
 2.  Calculus
 3.  Descriptive Statistics
@@ -65,10 +70,12 @@ This learning path is intended for everyone who wants to learn data science and 
 12. [TOOLBOX: Matplotlib](https://matplotlib.org/)
 13. [TOOLBOX: Seaborn](https://seaborn.pydata.org/)
 
+<a href="#table-of-contents">🠥🠥 Back to Table of Contents 🠥🠥</a>
+
+
+
 ## Machine Learning
-
 - ### Supervised Learning
-
 1.  K-NN (K-Nearest Neighbors)
 2.  Naive Bayes
 3.  Support Vector Machine
@@ -86,16 +93,19 @@ This learning path is intended for everyone who wants to learn data science and 
 15. [CASE STUDY: Titanic](https://www.kaggle.com/c/titanic)
 16. [CASE STUDY: Credit Scoring](https://www.kaggle.com/sakshigoyal7/credit-card-customers)
 
-- ### Unsupervised Learning
+<a href="#table-of-contents">🠥🠥 Back to Table of Contents 🠥🠥</a>
 
+- ### Unsupervised Learning
 1. K-Means Clustering
 2. DBSCAN
 3. Hierarchical Clustering
 
+<a href="#table-of-contents">🠥🠥 Back to Table of Contents 🠥🠥</a>
+
+
+
 ## Evaluation Metrics
-
 - ### Supervised Learning
-
 1. Confusion Matrix
 2. Accuracy
 3. Precision
@@ -116,13 +126,17 @@ This learning path is intended for everyone who wants to learn data science and 
 18. Perplexity
 19. BLEU score
 
-- ### Unsupervised Learning
+<a href="#table-of-contents">🠥🠥 Back to Table of Contents 🠥🠥</a>
 
+- ### Unsupervised Learning
 1. [Elbow Method](<https://en.wikipedia.org/wiki/Elbow_method_(clustering)>)
 2. Silhouette Coefficient
 
-## Deep Learning
+<a href="#table-of-contents">🠥🠥 Back to Table of Contents 🠥🠥</a>
 
+
+
+## Deep Learning
 1. Activation Functions
 2. Linear Layer
 3. CNN (Convolutional Neural Networks)
@@ -136,21 +150,30 @@ This learning path is intended for everyone who wants to learn data science and 
 11. [TOOLBOX: Tensorflow](https://www.tensorflow.org/)
 12. [TOOLBOX: Keras](https://keras.io)
 
-## ML Applications
+<a href="#table-of-contents">🠥🠥 Back to Table of Contents 🠥🠥</a>
 
+
+
+## ML Applications
 1. Timeseries
 2. Recommendation System
 3. Netwok Analysis
 
-## Computer Vision
+<a href="#table-of-contents">🠥🠥 Back to Table of Contents 🠥🠥</a>
 
+
+
+## Computer Vision
 1. Image Classification
 2. Object Detection
 3. Object Segmentation
 4. Instance Segmentation
 
-## NLP & NLU
+<a href="#table-of-contents">🠥🠥 Back to Table of Contents 🠥🠥</a>
 
+
+
+## NLP & NLU
 1.  Tokenization
 2.  Sequence
 3.  Padding
@@ -167,15 +190,29 @@ This learning path is intended for everyone who wants to learn data science and 
 14. [STUDY CASE: Sentiment Analysis](https://medium.com/data-folks-indonesia/indonesian-app-review-sentiment-analysis-using-neural-network-and-pytorch-54c0ef766c09)
 15. [STUDY CASE: Machine Translation](http://www.manythings.org/anki/)
 
+<a href="#table-of-contents">🠥🠥 Back to Table of Contents 🠥🠥</a>
+
+
+
 ## Speech Recognition
+
+<a href="#table-of-contents">🠥🠥 Back to Table of Contents 🠥🠥</a>
+
+
 
 ## Model Deployment
 
-## Book References
+<a href="#table-of-contents">🠥🠥 Back to Table of Contents 🠥🠥</a>
 
+
+
+## Book References
 1. [Practical Deep Learning for Coders](https://course.fast.ai/)
 2. [Dive Into Deep Learning](http://d2l.ai/index.html)
 3. [Interpretable Machine Learning](https://christophm.github.io/interpretable-ml-book/)
+
+<a href="#table-of-contents">🠥🠥 Back to Table of Contents 🠥🠥</a>
+
 
 
 <!-- MARKDOWN LINKS & IMAGES -->
