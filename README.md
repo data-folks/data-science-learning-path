@@ -17,15 +17,15 @@ This learning path is intended for everyone who wants to learn data science and 
     <li>
       <a href="#machine-learning">Machine Learning</a>
       <ul>
-        <li><a href="#">Supervised Learning</a></li>
-        <li><a href="#">Unsupervised Learning</a></li>
+        <li><a href="#supervised-learning">Supervised Learning</a></li>
+        <li><a href="#unsupervised-learning">Unsupervised Learning</a></li>
       </ul>
     </li>
     <li>
       <a href="#evaluation-metrics">Evaluation Metrics</a>
       <ul>
-        <li><a href="#">Supervised Learning</a></li>
-        <li><a href="#">Unsupervised Learning</a></li>
+        <li><a href="#supervised-learning-1">Supervised Learning</a></li>
+        <li><a href="#unsupervised-learning-1">Unsupervised Learning</a></li>
       </ul>
     </li>
     <li><a href="#deep-learning">Deep Learning</a></li>
