@@ -1,6 +1,8 @@
 ![image](https://github.com/data-folks/data-science-learning-path/blob/main/assets/banner.jpg)
 
-## Brief Introduction ![image](https://visitor-badge.laobi.icu/badge?page_id=data-folks/data-science-learning-path) [![Contributors][contributors-shield]][contributors-url] [![Forks][forks-shield]][forks-url] [![Stargazers][stars-shield]][stars-url] [![Issues][issues-shield]][issues-url] [![MIT License][license-shield]][license-url] [![LinkedIn][linkedin-shield]][linkedin-url] [![Discord][discord-shield]][discord-url] [![Medium][medium-shield]][medium-url]
+![image](https://visitor-badge.laobi.icu/badge?page_id=data-folks/data-science-learning-path) [![Contributors][contributors-shield]][contributors-url] [![Forks][forks-shield]][forks-url] [![Stargazers][stars-shield]][stars-url] [![Issues][issues-shield]][issues-url] [![MIT License][license-shield]][license-url] [![LinkedIn][linkedin-shield]][linkedin-url] [![Discord][discord-shield]][discord-url] [![Medium][medium-shield]][medium-url]
+
+## Brief Introduction
 
 A complete guide to learn data science for beginners.
 
