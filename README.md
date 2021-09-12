@@ -1,6 +1,6 @@
 ![image](https://github.com/data-folks/data-science-learning-path/blob/main/assets/banner.jpg)
 
-## Brief Introduction ![image](https://visitor-badge.laobi.icu/badge?page_id=data-folks/data-science-learning-path)
+## Brief Introduction ![image](https://visitor-badge.laobi.icu/badge?page_id=data-folks/data-science-learning-path) [![Contributors][contributors-shield]][contributors-url] [![Forks][forks-shield]][forks-url] [![Stargazers][stars-shield]][stars-url] [![Issues][issues-shield]][issues-url] [![MIT License][license-shield]][license-url] [![LinkedIn][linkedin-shield]][linkedin-url] [![Discord][discord-shield]][discord-url] [![Medium][medium-shield]][medium-url]
 
 A complete guide to learn data science for beginners.
 
@@ -144,3 +144,23 @@ This learning path is intended for everyone who wants to learn data science and 
 1. [Practical Deep Learning for Coders](https://course.fast.ai/)
 2. [Dive Into Deep Learning](http://d2l.ai/index.html)
 3. [Interpretable Machine Learning](https://christophm.github.io/interpretable-ml-book/)
+
+
+<!-- MARKDOWN LINKS & IMAGES -->
+<!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
+[contributors-shield]: https://img.shields.io/github/contributors/data-folks/data-science-learning-path.svg?flat
+[contributors-url]: https://github.com/data-folks/data-science-learning-path_name/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/data-folks/data-science-learning-path.svg?flat
+[forks-url]: https://github.com/data-folks/data-science-learning-path_name/network/members
+[stars-shield]: https://img.shields.io/github/stars/data-folks/data-science-learning-path.svg?flat
+[stars-url]: https://github.com/data-folks/data-science-learning-path_name/stargazers
+[issues-shield]: https://img.shields.io/github/issues/data-folks/data-science-learning-path.svg?flat
+[issues-url]: https://github.com/data-folks/data-science-learning-path_name/issues
+[license-shield]: https://img.shields.io/github/license/data-folks/data-science-learning-path.svg?flat
+[license-url]: https://github.com/data-folks/data-science-learning-path_name/blob/master/LICENSE.txt
+[linkedin-shield]: https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white
+[linkedin-url]: https://www.linkedin.com/company/jakartaresearch/
+[discord-shield]: https://img.shields.io/badge/Discord-7289DA?style=flat&logo=discord&logoColor=white
+[discord-url]: https://bit.ly/DiscordJakartaResearch
+[medium-shield]: https://img.shields.io/badge/Medium-12100E?style=flat&logo=medium&logoColor=white
+[medium-url]: http://medium.com/data-folks-indonesia
