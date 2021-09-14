@@ -139,7 +139,7 @@ This learning path is intended for everyone who wants to learn data science and 
 ## Deep Learning
 1. Activation Functions
 2. Linear Layer
-3. CNN (Convolutional Neural Networks)
+3. [CNN (Convolutional Neural Networks)](https://cs231n.github.io/)
 4. RNN (Recurrent Neural Networks)
 5. Optimization
 6. Loss Functions / Objective Functions
@@ -210,6 +210,7 @@ This learning path is intended for everyone who wants to learn data science and 
 1. [Practical Deep Learning for Coders](https://course.fast.ai/)
 2. [Dive Into Deep Learning](http://d2l.ai/index.html)
 3. [Interpretable Machine Learning](https://christophm.github.io/interpretable-ml-book/)
+4. [An Introduction to Statistical Learning with Applications in R](https://web.stanford.edu/~hastie/ISLRv2_website.pdf)
 
 <a href="#table-of-contents">🠥🠥 Back to Table of Contents 🠥🠥</a>
 
