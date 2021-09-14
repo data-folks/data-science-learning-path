@@ -219,15 +219,15 @@ This learning path is intended for everyone who wants to learn data science and 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 [contributors-shield]: https://img.shields.io/github/contributors/data-folks/data-science-learning-path.svg?flat
-[contributors-url]: https://github.com/data-folks/data-science-learning-path_name/graphs/contributors
+[contributors-url]: https://github.com/data-folks/data-science-learning-path/graphs/contributors
 [forks-shield]: https://img.shields.io/github/forks/data-folks/data-science-learning-path.svg?flat
-[forks-url]: https://github.com/data-folks/data-science-learning-path_name/network/members
+[forks-url]: https://github.com/data-folks/data-science-learning-path/network/members
 [stars-shield]: https://img.shields.io/github/stars/data-folks/data-science-learning-path.svg?flat
-[stars-url]: https://github.com/data-folks/data-science-learning-path_name/stargazers
+[stars-url]: https://github.com/data-folks/data-science-learning-path/stargazers
 [issues-shield]: https://img.shields.io/github/issues/data-folks/data-science-learning-path.svg?flat
-[issues-url]: https://github.com/data-folks/data-science-learning-path_name/issues
+[issues-url]: https://github.com/data-folks/data-science-learning-path/issues
 [license-shield]: https://img.shields.io/github/license/data-folks/data-science-learning-path.svg?flat
-[license-url]: https://github.com/data-folks/data-science-learning-path_name/blob/master/LICENSE.txt
+[license-url]: https://github.com/data-folks/data-science-learning-path/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white
 [linkedin-url]: https://www.linkedin.com/company/jakartaresearch/
 [discord-shield]: https://img.shields.io/badge/Discord-7289DA?style=flat&logo=discord&logoColor=white
