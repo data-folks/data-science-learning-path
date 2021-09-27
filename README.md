@@ -3,13 +3,13 @@
 ![image](https://visitor-badge.laobi.icu/badge?page_id=data-folks/data-science-learning-path) [![Contributors][contributors-shield]][contributors-url] [![Forks][forks-shield]][forks-url] [![Stargazers][stars-shield]][stars-url] [![Issues][issues-shield]][issues-url] [![MIT License][license-shield]][license-url] [![LinkedIn][linkedin-shield]][linkedin-url] [![Discord][discord-shield]][discord-url] [![Medium][medium-shield]][medium-url]
 
 ## Brief Introduction
+
 A complete guide to learn data science for beginners.
 
 This learning path is intended for everyone who wants to learn data science and build a career in data field especially data analyst and data scientist. In this guide, there is a corresponding link in each section that will help you to learn (at least to start) in each chapter.
 
-
-
 ## Table of Contents
+
 <details open="open">
   <summary>Table of Contents</summary>
   <ol>
@@ -39,9 +39,8 @@ This learning path is intended for everyone who wants to learn data science and 
   </ol>
 </details>
 
-
-
 ## Programming
+
 1. [Basic Python](https://www.learnpython.org/)
 2. [Object-oriented Programming](https://realpython.com/python3-object-oriented-programming/)
 3. [Intro to DBMS](https://www.omnisci.com/technical-glossary/dbms)
@@ -53,29 +52,26 @@ This learning path is intended for everyone who wants to learn data science and 
 
 <a href="#table-of-contents">🠥🠥 Back to Table of Contents 🠥🠥</a>
 
-
-
 ## Mathematics & Statistics
-1.  Linear Algebra
-2.  Calculus
-3.  Descriptive Statistics
-4.  Data Distributions
-5.  Statistical Testing
-6.  Exploratory Data Analysis
-7.  Correlation
-8.  Statistical Data Visualization
-9.  Regression
-10. [TOOLBOX: Pandas](https://pandas.pydata.org/)
-11. [TOOLBOX: Numpy](https://numpy.org/)
-12. [TOOLBOX: Matplotlib](https://matplotlib.org/)
-13. [TOOLBOX: Seaborn](https://seaborn.pydata.org/)
+
+1.  [Linear Algebra](https://www.coursera.org/learn/linear-algebra-machine-learning)
+2.  [Calculus](https://www.coursera.org/learn/multivariate-calculus-machine-learning?specialization=mathematics-machine-learning)
+3.  [Descriptive Statistics](https://conjointly.com/kb/descriptive-statistics/)
+4.  [Data Distributions](https://www.analyticssteps.com/blogs/10-types-statistical-data-distribution-models)
+5.  [Statistical Testing](https://homeweb.csulb.edu/~msaintg/ppa696/696stsig.htm)
+6.  [Exploratory Data Analysis](https://medium.com/data-folks-indonesia/10-things-to-do-when-conducting-your-exploratory-data-analysis-eda-7e3b2dfbf812)
+7.  [Regression](https://www.listendata.com/2018/03/regression-analysis.html)
+8.  [TOOLBOX: Pandas](https://pandas.pydata.org/)
+9.  [TOOLBOX: Numpy](https://numpy.org/)
+10. [TOOLBOX: Matplotlib](https://matplotlib.org/)
+11. [TOOLBOX: Seaborn](https://seaborn.pydata.org/)
 
 <a href="#table-of-contents">🠥🠥 Back to Table of Contents 🠥🠥</a>
 
-
-
 ## Machine Learning
+
 - ### Supervised Learning
+
 1.  K-NN (K-Nearest Neighbors)
 2.  Naive Bayes
 3.  Support Vector Machine
@@ -96,16 +92,17 @@ This learning path is intended for everyone who wants to learn data science and 
 <a href="#table-of-contents">🠥🠥 Back to Table of Contents 🠥🠥</a>
 
 - ### Unsupervised Learning
+
 1. K-Means Clustering
 2. DBSCAN
 3. Hierarchical Clustering
 
 <a href="#table-of-contents">🠥🠥 Back to Table of Contents 🠥🠥</a>
 
-
-
 ## Evaluation Metrics
+
 - ### Supervised Learning
+
 1. Confusion Matrix
 2. Accuracy
 3. Precision
@@ -129,14 +126,14 @@ This learning path is intended for everyone who wants to learn data science and 
 <a href="#table-of-contents">🠥🠥 Back to Table of Contents 🠥🠥</a>
 
 - ### Unsupervised Learning
+
 1. [Elbow Method](<https://en.wikipedia.org/wiki/Elbow_method_(clustering)>)
 2. Silhouette Coefficient
 
 <a href="#table-of-contents">🠥🠥 Back to Table of Contents 🠥🠥</a>
 
-
-
 ## Deep Learning
+
 1. Activation Functions
 2. Linear Layer
 3. [CNN (Convolutional Neural Networks)](https://cs231n.github.io/)
@@ -152,18 +149,16 @@ This learning path is intended for everyone who wants to learn data science and 
 
 <a href="#table-of-contents">🠥🠥 Back to Table of Contents 🠥🠥</a>
 
-
-
 ## ML Applications
+
 1. Timeseries
 2. Recommendation System
 3. Netwok Analysis
 
 <a href="#table-of-contents">🠥🠥 Back to Table of Contents 🠥🠥</a>
 
-
-
 ## Computer Vision
+
 1. Image Classification
 2. Object Detection
 3. Object Segmentation
@@ -171,9 +166,8 @@ This learning path is intended for everyone who wants to learn data science and 
 
 <a href="#table-of-contents">🠥🠥 Back to Table of Contents 🠥🠥</a>
 
-
-
 ## NLP & NLU
+
 1.  Tokenization
 2.  Sequence
 3.  Padding
@@ -183,8 +177,8 @@ This learning path is intended for everyone who wants to learn data science and 
 7.  Feature Selection
 8.  Term Weighting
 9.  Embedding
-10.  Part of Speech Tagging
-11.  Named Entity Recognition
+10. Part of Speech Tagging
+11. Named Entity Recognition
 12. Popular NLP & NLU Architecture
 13. [STUDY CASE: News Classification](http://qwone.com/~jason/20Newsgroups/)
 14. [STUDY CASE: Sentiment Analysis](https://medium.com/data-folks-indonesia/indonesian-app-review-sentiment-analysis-using-neural-network-and-pytorch-54c0ef766c09)
@@ -192,21 +186,16 @@ This learning path is intended for everyone who wants to learn data science and 
 
 <a href="#table-of-contents">🠥🠥 Back to Table of Contents 🠥🠥</a>
 
-
-
 ## Speech Recognition
 
 <a href="#table-of-contents">🠥🠥 Back to Table of Contents 🠥🠥</a>
-
-
 
 ## Model Deployment
 
 <a href="#table-of-contents">🠥🠥 Back to Table of Contents 🠥🠥</a>
 
-
-
 ## Book References
+
 1. [Practical Deep Learning for Coders](https://course.fast.ai/)
 2. [Dive Into Deep Learning](http://d2l.ai/index.html)
 3. [Interpretable Machine Learning](https://christophm.github.io/interpretable-ml-book/)
@@ -215,10 +204,9 @@ This learning path is intended for everyone who wants to learn data science and 
 
 <a href="#table-of-contents">🠥🠥 Back to Table of Contents 🠥🠥</a>
 
-
-
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
+
 [contributors-shield]: https://img.shields.io/github/contributors/data-folks/data-science-learning-path.svg?flat
 [contributors-url]: https://github.com/data-folks/data-science-learning-path/graphs/contributors
 [forks-shield]: https://img.shields.io/github/forks/data-folks/data-science-learning-path.svg?flat
