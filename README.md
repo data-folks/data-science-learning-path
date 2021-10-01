@@ -73,7 +73,7 @@ This learning path is intended for everyone who wants to learn data science and 
 - ### Supervised Learning
 
 1.  [K-NN (K-Nearest Neighbors)](https://towardsdatascience.com/machine-learning-basics-with-the-k-nearest-neighbors-algorithm-6a6e71d01761)
-2.  [Naive Bayes] (https://jakevdp.github.io/PythonDataScienceHandbook/05.05-naive-bayes.html)
+2.  [Naive Bayes](https://jakevdp.github.io/PythonDataScienceHandbook/05.05-naive-bayes.html)
 3.  Support Vector Machine
 4.  Random Forest
 5.  AdaBoost
