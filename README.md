@@ -74,12 +74,12 @@ This learning path is intended for everyone who wants to learn data science and 
 
 1.  [K-NN (K-Nearest Neighbors)](https://towardsdatascience.com/machine-learning-basics-with-the-k-nearest-neighbors-algorithm-6a6e71d01761)
 2.  [Naive Bayes](https://jakevdp.github.io/PythonDataScienceHandbook/05.05-naive-bayes.html)
-3.  Support Vector Machine
-4.  Random Forest
-5.  AdaBoost
-6.  Gradient Boosting
-7.  XGBoost
-8.  CatBoost
+3.  [Support Vector Machine](https://datascience.foundation/datatalk/basic-overview-of-svm-algorithm)
+4.  [Random Forest]
+5.  [AdaBoost](https://www.mygreatlearning.com/blog/adaboost-algorithm/)
+6.  [Gradient Boosting](https://blog.mlreview.com/gradient-boosting-from-scratch-1e317ae4587d)
+7.  [XGBoost](https://machinelearningmastery.com/gentle-introduction-xgboost-applied-machine-learning/)
+8.  [CatBoost](https://dataaspirant.com/catboost-algorithm/)
 9.  Bagging Classifier
 10. Voting Classifier
 11. Stacking Classifier
