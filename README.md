@@ -80,9 +80,9 @@ This learning path is intended for everyone who wants to learn data science and 
 6.  [Gradient Boosting](https://blog.mlreview.com/gradient-boosting-from-scratch-1e317ae4587d)
 7.  [XGBoost](https://machinelearningmastery.com/gentle-introduction-xgboost-applied-machine-learning/)
 8.  [CatBoost](https://dataaspirant.com/catboost-algorithm/)
-9.  Bagging Classifier
-10. Voting Classifier
-11. Stacking Classifier
+9.  [Bagging Classifier](https://vitalflux.com/bagging-classifier-python-code-example/)
+10. [Voting Classifier]
+11. [Stacking Classifier]
 12. [TOOLBOX: Scikit Learn](https://scikit-learn.org/stable/)
 13. [TOOLBOX: statsmodels](https://www.statsmodels.org/stable/index.html)
 14. [CASE STUDY: House Pricing](https://www.kaggle.com/c/house-prices-advanced-regression-techniques)
