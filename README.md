@@ -74,15 +74,15 @@ This learning path is intended for everyone who wants to learn data science and 
 
 1.  [K-NN (K-Nearest Neighbors)](https://towardsdatascience.com/machine-learning-basics-with-the-k-nearest-neighbors-algorithm-6a6e71d01761)
 2.  [Naive Bayes](https://jakevdp.github.io/PythonDataScienceHandbook/05.05-naive-bayes.html)
-3.  Support Vector Machine
-4.  Random Forest
-5.  AdaBoost
-6.  Gradient Boosting
-7.  XGBoost
-8.  CatBoost
-9.  Bagging Classifier
-10. Voting Classifier
-11. Stacking Classifier
+3.  [Support Vector Machine](https://datascience.foundation/datatalk/basic-overview-of-svm-algorithm)
+4.  [Random Forest](https://www.section.io/engineering-education/introduction-to-random-forest-in-machine-learning/)
+5.  [AdaBoost](https://www.mygreatlearning.com/blog/adaboost-algorithm/)
+6.  [Gradient Boosting](https://blog.mlreview.com/gradient-boosting-from-scratch-1e317ae4587d)
+7.  [XGBoost](https://machinelearningmastery.com/gentle-introduction-xgboost-applied-machine-learning/)
+8.  [CatBoost](https://dataaspirant.com/catboost-algorithm/)
+9.  [Bagging Classifier](https://vitalflux.com/bagging-classifier-python-code-example/)
+10. [Voting Classifier](https://towardsdatascience.com/how-voting-classifiers-work-f1c8e41d30ff)
+11. [Stacking Classifier](https://bush-dev.com/introduction-to-stacking-classifier/)
 12. [TOOLBOX: Scikit Learn](https://scikit-learn.org/stable/)
 13. [TOOLBOX: statsmodels](https://www.statsmodels.org/stable/index.html)
 14. [CASE STUDY: House Pricing](https://www.kaggle.com/c/house-prices-advanced-regression-techniques)
