@@ -93,9 +93,9 @@ This learning path is intended for everyone who wants to learn data science and 
 
 - ### Unsupervised Learning
 
-1. K-Means Clustering
-2. DBSCAN
-3. Hierarchical Clustering
+1. [K-Means Clustering](https://www.kdnuggets.com/2019/05/guide-k-means-clustering-algorithm.html) 
+2. [DBSCAN](https://www.analyticsvidhya.com/blog/2020/09/how-dbscan-clustering-works/)
+3. [Hierarchical Clustering](https://www.kdnuggets.com/2019/09/hierarchical-clustering.html)
 
 <a href="#table-of-contents">🠥🠥 Back to Table of Contents 🠥🠥</a>
 
