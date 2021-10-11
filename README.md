@@ -103,7 +103,7 @@ This learning path is intended for everyone who wants to learn data science and 
 
 - ### Supervised Learning
 
-1. Confusion Matrix
+1. [Confusion Matrix](https://www.analyticsvidhya.com/blog/2020/04/confusion-matrix-machine-learning/)
 2. Accuracy
 3. Precision
 4. Recall
@@ -128,7 +128,7 @@ This learning path is intended for everyone who wants to learn data science and 
 - ### Unsupervised Learning
 
 1. [Elbow Method](<https://en.wikipedia.org/wiki/Elbow_method_(clustering)>)
-2. Silhouette Coefficient
+2. [Silhouette Coefficient](https://towardsdatascience.com/silhouette-coefficient-validating-clustering-techniques-e976bb81d10c)
 
 <a href="#table-of-contents">🠥🠥 Back to Table of Contents 🠥🠥</a>
 
