@@ -93,7 +93,7 @@ This learning path is intended for everyone who wants to learn data science and 
 
 - ### Unsupervised Learning
 
-1. [K-Means Clustering](https://www.kdnuggets.com/2019/05/guide-k-means-clustering-algorithm.html) 
+1. [K-Means Clustering](https://www.kdnuggets.com/2019/05/guide-k-means-clustering-algorithm.html)
 2. [DBSCAN](https://www.analyticsvidhya.com/blog/2020/09/how-dbscan-clustering-works/)
 3. [Hierarchical Clustering](https://www.kdnuggets.com/2019/09/hierarchical-clustering.html)
 
@@ -134,15 +134,15 @@ This learning path is intended for everyone who wants to learn data science and 
 
 ## Deep Learning
 
-1. Activation Functions
-2. Linear Layer
+1. [Activation Functions](https://towardsdatascience.com/activation-functions-neural-networks-1cbd9f8d91d6)
+2. [Linear Layer](https://medium.com/datathings/linear-layers-explained-in-a-simple-way-2319a9c2d1aa)
 3. [CNN (Convolutional Neural Networks)](https://cs231n.github.io/)
-4. RNN (Recurrent Neural Networks)
-5. Optimization
-6. Loss Functions / Objective Functions
-7. Dropout
-8. Batchnorm
-9. Learning Rate Scheduler
+4. [RNN (Recurrent Neural Networks)](https://builtin.com/data-science/recurrent-neural-networks-and-lstm)
+5. [Optimization](https://d2l.ai/chapter_optimization/)
+6. [Loss Functions / Objective Functions](https://towardsdatascience.com/common-loss-functions-in-machine-learning-46af0ffc4d23)
+7. [Dropout](https://leonardoaraujosantos.gitbook.io/artificial-inteligence/machine_learning/deep_learning/dropout_layer)
+8. [Batchnorm](https://www.baeldung.com/cs/batch-normalization-cnn)
+9. [Learning Rate Scheduler](https://towardsdatascience.com/learning-rate-schedules-and-adaptive-learning-rate-methods-for-deep-learning-2c8f433990d1)
 10. [TOOLBOX: PyTorch](https://pytorch.org/)
 11. [TOOLBOX: Tensorflow](https://www.tensorflow.org/)
 12. [TOOLBOX: Keras](https://keras.io)
