@@ -113,7 +113,7 @@ This learning path is intended for everyone who wants to learn data science and 
 8. ROC AUC (Area Under Curve)
 9. Top K Accuracy
 10. MAE
-11. MSE
+11. MSE (https://www.freecodecamp.org/news/machine-learning-mean-squared-error-regression-line-c7dde9a26b93/)
 12. MRR
 13. DCG
 14. NDCG
