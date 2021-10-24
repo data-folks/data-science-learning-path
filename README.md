@@ -104,14 +104,14 @@ This learning path is intended for everyone who wants to learn data science and 
 - ### Supervised Learning
 
 1. [Confusion Matrix](https://www.analyticsvidhya.com/blog/2020/04/confusion-matrix-machine-learning/)
-2. [Accuracy] (https://scikit-learn.org/stable/modules/generated/sklearn.metrics.accuracy_score.html)
-3. [Precision] (https://scikit-learn.org/stable/modules/generated/sklearn.metrics.precision_score.html#sklearn.metrics.precision_score)
-4. [Recall] (https://scikit-learn.org/stable/modules/generated/sklearn.metrics.recall_score.html#sklearn.metrics.recall_score)
-5. [F Score] (https://scikit-learn.org/stable/modules/generated/sklearn.metrics.f1_score.html#sklearn.metrics.f1_score)
-6. [Hamming Loss] (https://scikit-learn.org/stable/modules/generated/sklearn.metrics.hamming_loss.html#sklearn.metrics.hamming_loss)
-7. [ROC (Receiver Operating Characteristic)] (https://scikit-learn.org/stable/modules/generated/sklearn.metrics.roc_curve.html)
-8. [ROC AUC (Area Under Curve)] (https://scikit-learn.org/stable/modules/generated/sklearn.metrics.roc_auc_score.html#sklearn.metrics.roc_auc_score)
-9. [Top K Accuracy] (https://scikit-learn.org/stable/modules/generated/sklearn.metrics.top_k_accuracy_score.html#sklearn.metrics.top_k_accuracy_score)
+2. [Accuracy](https://scikit-learn.org/stable/modules/generated/sklearn.metrics.accuracy_score.html)
+3. [Precision](https://scikit-learn.org/stable/modules/generated/sklearn.metrics.precision_score.html#sklearn.metrics.precision_score)
+4. [Recall](https://scikit-learn.org/stable/modules/generated/sklearn.metrics.recall_score.html#sklearn.metrics.recall_score)
+5. [F Score](https://scikit-learn.org/stable/modules/generated/sklearn.metrics.f1_score.html#sklearn.metrics.f1_score)
+6. [Hamming Loss](https://scikit-learn.org/stable/modules/generated/sklearn.metrics.hamming_loss.html#sklearn.metrics.hamming_loss)
+7. [ROC (Receiver Operating Characteristic)](https://scikit-learn.org/stable/modules/generated/sklearn.metrics.roc_curve.html)
+8. [ROC AUC (Area Under Curve)](https://scikit-learn.org/stable/modules/generated/sklearn.metrics.roc_auc_score.html#sklearn.metrics.roc_auc_score)
+9. [Top K Accuracy](https://scikit-learn.org/stable/modules/generated/sklearn.metrics.top_k_accuracy_score.html#sklearn.metrics.top_k_accuracy_score)
 10. [MAE](https://www.statisticshowto.com/absolute-error/)
 11. [MSE](https://www.freecodecamp.org/news/machine-learning-mean-squared-error-regression-line-c7dde9a26b93/)
 12. MRR
